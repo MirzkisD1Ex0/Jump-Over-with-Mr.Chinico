@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 33281e0ec9f7fea489c8e9f5d3def149
+timeCreated: 1562133080
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Power Pixel-7
+  fontNames:
+  - pixel_1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
